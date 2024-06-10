@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kispotta&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kispotta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-kispotta" alt="praveen-kispotta" /></a> </p>
-
 - 🔭 I’m currently working on [food_ordering](https://github.com/PRAVEEN-KISPOTTA/food_ordering)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -19,6 +17,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fbtOt-OnylvTWAkv0UpmN7_9lmweKayV/view?usp=sharing](https://drive.google.com/file/d/1fbtOt-OnylvTWAkv0UpmN7_9lmweKayV/view?usp=sharing)
 
 - ⚡ Fun fact **"I believe there might be something missing in my implementation."**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-kispotta" alt="praveen-kispotta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-kispotta&" alt="praveen-kispotta" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=PRAVEEN-KISPOTTA&limit=5&theme=flat&combine_all_yearly_contributions=true)
