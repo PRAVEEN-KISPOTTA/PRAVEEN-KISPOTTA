@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kispotta&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kispotta" /> </p>
 
-- 🔭 I’m currently working on [food_ordering](https://github.com/PRAVEEN-KISPOTTA/food_ordering)
+- 🔭 I’m currently working on [food_ordering](https://github.com/PRAVEEN-KISPOTTA/food_ordering) project.
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Frontend Development and DSA**
 
 - 👯 I’m looking to collaborate on [toDesktop_app](https://github.com/PRAVEEN-KISPOTTA/toDesktop_app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PRAVEEN-KISPOTTA](https://github.com/PRAVEEN-KISPOTTA)
+- 👨‍💻 All of my projects are available on my [Repository](https://github.com/PRAVEEN-KISPOTTA)
 
 - 📫 How to reach me **pkumarkispotta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fbtOt-OnylvTWAkv0UpmN7_9lmweKayV/view?usp=sharing](https://drive.google.com/file/d/1fbtOt-OnylvTWAkv0UpmN7_9lmweKayV/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1DDulL8ljWZ_tNiRc_h0iV9cTYq7MMNdj/view?usp=drive_link)
 
 - ⚡ Fun fact **"I believe there might be something missing in my implementation."**
 
