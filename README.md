@@ -32,6 +32,7 @@
 <a href="https://www.leetcode.com/praveen_kispotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen_kispotta" height="30" width="40" /></a>
 </p>
 
+
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="40px"></img>
