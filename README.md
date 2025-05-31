@@ -45,6 +45,11 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 ##
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2024-05.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2024-04.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2024-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2024-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2024-01.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
